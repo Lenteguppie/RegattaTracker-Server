@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1543a475-8ebc-474f-aaf7-6f9bfdae8f2e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/RegattaTracker-Server" />
+  </component>
+  <component name="ProjectId" id="1YWgX4rEyQ0Ga3SYEsPESTKI0R7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/modules" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sasch\IdeaProjects\Java Extention\modules" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RegattaTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegattaTracker" />
+      <module name="Java Extention" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RegattaTracker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1543a475-8ebc-474f-aaf7-6f9bfdae8f2e" name="Default Changelist" comment="" />
+      <created>1583063800718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583063800718</updated>
+      <workItem from="1583063803445" duration="18357000" />
+      <workItem from="1583151928425" duration="5595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583091718702">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="734" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583091718702" />
+    <state x="1725" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1583089174287">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1725" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583089174287" />
+    <state x="1009" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583091715852">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1009" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583091715852" />
+    <state x="1060" y="274" key="FileChooserDialogImpl" timestamp="1583088110830">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="274" key="FileChooserDialogImpl/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583088110830" />
+    <state width="2517" height="282" key="GridCell.Tab.0.bottom" timestamp="1583160793183">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583160793183" />
+    <state width="2517" height="282" key="GridCell.Tab.0.center" timestamp="1583160793183">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.center/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583160793183" />
+    <state width="2517" height="282" key="GridCell.Tab.0.left" timestamp="1583160793183">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.left/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583160793183" />
+    <state width="2517" height="282" key="GridCell.Tab.0.right" timestamp="1583160793183">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.right/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583160793183" />
+    <state width="2517" height="348" key="GridCell.Tab.1.bottom" timestamp="1583066472164">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.bottom/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583066472164" />
+    <state width="2517" height="348" key="GridCell.Tab.1.center" timestamp="1583066472163">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.center/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583066472163" />
+    <state width="2517" height="348" key="GridCell.Tab.1.left" timestamp="1583066472163">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.left/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583066472163" />
+    <state width="2517" height="348" key="GridCell.Tab.1.right" timestamp="1583066472164">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.right/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583066472164" />
+    <state x="781" y="162" key="SettingsEditor" timestamp="1583088115847">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="781" y="162" key="SettingsEditor/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583088115847" />
+    <state x="981" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583151929051">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="981" y="344" key="com.intellij.ide.util.TipDialog/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583151929051" />
+    <state x="976" y="118" width="607" height="804" key="find.popup" timestamp="1583068235453">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="976" y="118" width="607" height="804" key="find.popup/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583068235453" />
+    <state x="662" y="140" key="new project wizard" timestamp="1583157690599">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="662" y="140" key="new project wizard/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583157690599" />
+    <state x="943" y="225" key="search.everywhere.popup" timestamp="1583157651906">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="943" y="225" key="search.everywhere.popup/0.0.2560.1040/-1050.-587.1050.1640@0.0.2560.1040" timestamp="1583157651906" />
+  </component>
+</project>
